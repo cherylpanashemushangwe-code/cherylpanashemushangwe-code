@@ -1,8 +1,7 @@
 # Hi, I'm Cheryl Mushangwe
 
-I'm a Master of Professional Studies in Analytics student at Northeastern University (Statistical Modeling concentration, graduating May 2027). I build predictive models, SQL analytics, and dashboards, mostly on healthcare, financial risk, and retail data. My background is in agricultural economics, so I tend to start with the business question and then look for the data that answers it.
+I'm a Master's in Analytics and Statistical Modeling student at Northeastern University. I build predictive models, SQL analytics, and dashboards, mostly on healthcare, financial risk, and retail data. My background is in agricultural economics, so I tend to start with the business question and then look for the data that answers it.
 
-I'm looking for a data analytics or data science co-op from January to June 2027.
 
 ## Featured projects
 
@@ -22,7 +21,7 @@ Logistic regression compared with neural networks on 5,000 telecom customers, pl
 A 9 table PostgreSQL schema and 20 analysis queries covering RFM segmentation, cohort retention, churn, margins, and carrier performance. PostgreSQL, Power BI.
 
 **[Boston 311 Service Performance](https://github.com/cherylpanashemushangwe-code/Data-Science-and-Analytics-Projects/tree/main/Boston-311-Service-Performance)** (team of 4)
-1.2 million city service requests from 2015 to 2019, analyzed with chi square tests, logistic regression, and LASSO to find what drives timely closure. R.
+1.2 million city service requests from 2015 to 2019, analyzed with chi-square tests, logistic regression, and LASSO to find what drives timely closure. R.
 
 All projects: [Data Science and Analytics Projects](https://github.com/cherylpanashemushangwe-code/Data-Science-and-Analytics-Projects)
 
